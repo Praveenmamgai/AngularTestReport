@@ -27,7 +27,7 @@ describe('CommonExamplesComponent', () => {
   });
 
   it('should create', () => {
-    expect(component).toBeFalsy();
+    expect(component).toBeTruthy();
   });
 
   it('should set the result when getResult method is called', () => {
