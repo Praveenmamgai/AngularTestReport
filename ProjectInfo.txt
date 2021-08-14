@@ -1,4 +1,4 @@
 Project:.NetCore
-DataBase:MazePoint.MazePoint2
+DataBase:MazePoint,Netxes
 UserId:sa
 Password:Excell33
